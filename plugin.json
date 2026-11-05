@@ -1,0 +1,11 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "pmnote",
+  "version": "1.5.4",
+  "description": "Find PMNote public resources about game project management, career development, and AI tools.",
+  "author": {"name": "Hao", "url": "https://pmnote.ai"},
+  "homepage": "https://pmnote.ai",
+  "repository": "https://github.com/chenhao233/pmnote-gemini-extension",
+  "license": "LicenseRef-PMNote",
+  "keywords": ["game-project-management", "career", "ai-tools"]
+}
