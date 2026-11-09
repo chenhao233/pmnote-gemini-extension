@@ -12,6 +12,6 @@ Python 3.9+ and internet access are needed for the optional reader. It reads pmn
 
 ## Compatible agent plugins
 
-The portable `plugin.json` also allows compatible agent clients to discover `skills/pmnote`. The package's license permits distribution through the specified markets; linked articles and external works remain under their own terms.
+The portable `plugin.json` also allows compatible agent clients to discover `skills/pmnote`. The plugin package is free and open source under the MIT license; linked articles and external works remain under their own terms.
 
 The public interview reader retrieves the website's anonymous connection details and sends interview search terms to the site's Supabase endpoint. Standard network requests reveal request metadata to their destinations. The [PMNote website privacy policy](https://pmnote.ai/privacy/) covers the website and iOS app; [support](https://pmnote.ai/support/) is available for questions.
